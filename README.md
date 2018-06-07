@@ -1,0 +1,2 @@
+# FrendCodeScript
+fc commands scripts
